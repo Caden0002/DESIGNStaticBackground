@@ -1,5 +1,3 @@
-import React from 'react';
-
 const quote = "I am amazing\nand\nI know it!";
 const quote2 = "#SELFREMINDER";
 

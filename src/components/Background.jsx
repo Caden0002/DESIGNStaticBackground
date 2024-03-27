@@ -1,6 +1,3 @@
-// components/Background.jsx
-
-import React from 'react';
 import background from '/plantbackground.png';
 
 const Background = ({ children }) => (
