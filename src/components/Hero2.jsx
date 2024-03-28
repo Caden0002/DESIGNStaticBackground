@@ -9,7 +9,7 @@ function Hero2(props) {
     return (
         // Container for the section
         <div className="container max-w-screen-xl mx-auto flex justify-center items-center md:min-h-screen relative z-10">
-            <div className="bg-backgroundColorQuaternary bg-opacity-30 w-3/4 h-[75vh] text-textColorSecondary flex justify-center items-center">
+            <div className="w-3/4 h-[75vh] text-gray-800 flex justify-center items-center" style={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' }}>
                 <div>
 
                 <div className="font-GV  text-center text-7xl ">
