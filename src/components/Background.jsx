@@ -1,4 +1,4 @@
-import background from '/plantbackground.png';
+import background from '/Night.gif';
 
 const Background = ({ children }) => (
     <div className="relative top-0 left-0 w-screen h-screen overflow-y-scroll" style={{ backgroundImage: `url(${background})`, backgroundSize: 'cover', backgroundRepeat: 'repeat' }}>

@@ -1,15 +1,13 @@
 import Background from "./components/Background.jsx";
-import Hero from "./components/Hero.jsx";
-import Hero2 from "./components/Hero2.jsx";
-
-
+import Page1 from "./components/Page1.jsx";
+import Page2 from "./components/Page2.jsx";
 
 
 function App(props) {
     return (
         <Background>
-            <Hero2 />
-            <Hero />
+            <Page1 />
+            <Page2 />
         </Background>
     );
 }
